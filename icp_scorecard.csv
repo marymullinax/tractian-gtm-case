@@ -1,0 +1,24 @@
+Company,Website,ICP Score (1-10),Priority Tier,Signals Matched,Locations Found,Data Source
+Amcor,https://www.amcor.com,10,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Large enterprise signals | Sustainability focus (bonus),8,pre-researched
+Crown Holdings,https://www.crowncork.com,8,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Sustainability focus (bonus),8,pre-researched
+Sonoco Products,https://www.sonoco.com,10,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Large enterprise signals | Sustainability focus (bonus),8,pre-researched
+Berry Global,https://www.berryglobal.com,10,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Large enterprise signals | Sustainability focus (bonus),5,pre-researched
+Sealed Air,https://www.sealedair.com,0,Tier 3 — Low fit,,5,pre-researched
+Greif,https://www.greif.com,8,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Sustainability focus (bonus),5,pre-researched
+Silgan Holdings,https://www.silgan.com,0,Tier 3 — Low fit,,4,pre-researched
+Pactiv Evergreen,https://www.pactivevergreen.com,8,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Sustainability focus (bonus),3,scraped
+Ardagh Group,https://www.ardaghgroup.com,0,Tier 3 — Low fit,,0,scraped
+Graphic Packaging,https://www.graphicpkg.com,8,Tier 1 — Priority,Core packaging sector match | Multi-site global footprint | Industrial manufacturer | Sustainability focus (bonus),4,scraped
+Coca-Cola,https://www.coca-cola.com,0,Tier 3 — Low fit,,0,scraped
+Procter & Gamble,https://www.pg.com,0,Tier 3 — Low fit,,0,scraped
+Komatsu,https://www.komatsu.com,0,Tier 3 — Low fit,,0,scraped
+Caterpillar,https://www.caterpillar.com,0,Tier 3 — Low fit,,5,pre-researched
+John Deere,https://www.deere.com,0,Tier 3 — Low fit,,0,scraped
+Parker Hannifin,https://www.parker.com,0,Tier 3 — Low fit,,4,pre-researched
+Emerson Electric,https://www.emerson.com,4,Tier 3 — Low fit,Multi-site global footprint | Industrial manufacturer,1,scraped
+Nucor,https://www.nucor.com,7,Tier 2 — Qualified,Multi-site global footprint | Industrial manufacturer | Large enterprise signals | Sustainability focus (bonus),1,scraped
+LyondellBasell,https://www.lyondellbasell.com,0,Tier 3 — Low fit,,0,scraped
+Eastman,https://www.eastman.com,0,Tier 3 — Low fit,,0,scraped
+Apple,https://www.apple.com,6,Tier 2 — Qualified,Multi-site global footprint | Industrial manufacturer | Large enterprise signals,1,scraped
+Spotify,https://www.spotify.com,0,Tier 3 — Low fit,,5,scraped
+Airbnb,https://www.airbnb.com,4,Tier 3 — Low fit,Multi-site global footprint | Large enterprise signals,2,scraped
